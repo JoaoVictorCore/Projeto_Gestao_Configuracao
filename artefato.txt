@@ -1,0 +1,1 @@
+Este é um artefato de teste para controle de versões no repositório.
